@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: My website
 ---
+# Hello
+## Hello again
+### This is my site
